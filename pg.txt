@@ -6,5 +6,5 @@ void main()
 {
 	double n, m;
 	cin>>n>>m;
-	cout<<m/n;
+	cout<<n/m;
 }
